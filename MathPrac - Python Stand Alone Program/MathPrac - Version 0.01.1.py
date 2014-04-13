@@ -1,15 +1,16 @@
 import random
 
-version = 0.01
+version = '0.01.1'
 
 
 print("WELCOME\n")
-print("This Application was made using Python 3.3 & Microsoft Visual Studio 10\n")
-print("This Application is called MathPract. It helps people of all ages practice mathematics")
-print("MathPrac was designed and coded by Liam Angus (LiamWA11)")
+print("This Application was made using Python 3.3 & Microsoft Visual Studio 2013\n")
+print("This Application is called MathPrac. It helps people of all ages practice Mathematics")
+print("MathPrac was designed and coded by LiamWA11")
 print("It is version " + str(version))
 
 firstName = input("What is your first name? \n")
+print("PS: Your first name is not currently used, later, it maybe a username or something, may remove in a leter version :D")
 #lastName = input("What is you last name? \n")
 evenQuestions = True
 numberOfQuestions = 0
