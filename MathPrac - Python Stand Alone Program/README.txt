@@ -70,8 +70,8 @@ ________________________________________________________________________________
 The whole program has been written from scratch, so, the changelog is the WHOLE program has
 been written.
 
-*NOTE: Privacy Flaw was fixed in a quick update, it was fixed about 5 minutes after the
-initial Version 0.01 went live, i have fixed it in this version, plus put out Version 0.01.1
+*NOTE: Privacy Flaw was fixed in a quick update, it was fixed about 25 minutes after the
+initial Version 0.01 went live, I have fixed it in this version, plus put out Version 0.01.1
 with some other fixes in it.
 
 
