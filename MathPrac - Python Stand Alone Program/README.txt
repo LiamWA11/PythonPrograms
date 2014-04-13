@@ -1,8 +1,21 @@
-==========================
+================================================================================================
 
-        MATHRPAC
+                                        MATHRPAC
 
-==========================
+================================================================================================
+
+PLEASE REMEMBER
+
+MathPrac is a Registered Trademark of LiamWA11 (Owner & Writer of MathPrac). All use of the
+term 'MathPrac' referring to this program must be used sensibly and in compliance with our 
+Terms Of Service.
+
+You are free to use MathPrac Commercially and Non-Commercially so long as you give credit 
+to the Copyright Holder (LiamWA11) and Writer (LiamWA11) when used. You may not 
+re-distributed this program re-branded as your own, and you may not sell this program as 
+a commercial good.
+
+===============================================================================================
 
 MathPrac is a stand alone Python Prgram for practicing simple mathematics. You can customize
 MathPrac to make the sums as hard or as easy as you want.
